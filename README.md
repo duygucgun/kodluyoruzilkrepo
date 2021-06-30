@@ -37,5 +37,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 
 
-![Projenin resmi](https://www.kodluyoruz.org)
+![Projenin resmi](https://avatars.githubusercontent.com/u/30476529?s=280&v=4)
 
